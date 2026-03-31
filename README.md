@@ -32,3 +32,12 @@
 3. Apply ML models for profit prediction based on using categorization for the best product.  
 4. Generate **business future decisions** to boost profit.
 
+---
+
+## Key Skills
+- **Time Series Analysis**
+- **Decision Support**
+- **Forecasting and Predictions**
+- **Machine Learning Algorithms**
+- **Data Visualization**
+  
