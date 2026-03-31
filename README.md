@@ -32,6 +32,3 @@
 3. Apply ML models for profit prediction based on using categorization for the best product.  
 4. Generate **business future decisions** to boost profit.
 
-
-# Run the analysis
-python main.py
