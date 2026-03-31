@@ -1,8 +1,8 @@
-# Sales Analizator 🚀
+# PROFIT PREDICTOR 🚀
 *Machine Learning for Seasonal Sales & Profit Optimization*
 
-![Data Analysis & ML](https://images.unsplash.com/photo-1556157382-97eda2d62296?auto=format&fit=crop&w=1350&q=80)
-*Image: Data visualization, analytics, and machine learning*
+![Data Analysis & ML](https://www.freepik.com/premium-ai-image/blue-background-with-upward-arrow-digital-graph-stock-market-growth-financial-growth-business-performance-concept_285530160.htm)
+
 
 ---
 
