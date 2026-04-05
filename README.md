@@ -3,7 +3,6 @@
 
 ![Data Analysis and ML](https://pin.it/301zj6LfD)
 
-![Data Analysis and ML](https://pin.it/301zj6LfD)
 ---
 
 ## Project Overview
