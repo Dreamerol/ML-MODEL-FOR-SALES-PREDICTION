@@ -1,6 +1,5 @@
 <h1 align="center">📈 ML MODEL FOR SALES PREDICTION </h1>
 
-MACHINE LEARNING ALGORITHMS FOR PROFIT PREDICTION
 
 ## <p align="center"><strong><em>Predicting trends, maximizing profits, and delivering actionable insights</em></strong></p>
 
