@@ -206,5 +206,5 @@ This project transforms raw data into **insightful predictions**, allowing busin
 
 ---
 
-> **Turning data into decisions—and predictions into profit.**
+**Turning data into decisions—and predictions into profit.**
   
