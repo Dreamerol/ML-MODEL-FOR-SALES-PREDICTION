@@ -92,7 +92,12 @@ This project transforms raw data into **insightful predictions**, allowing busin
 `Data Analysis` · `Business Intelligence` · `Trend Detection` ·  
 `Profit Optimization` · `Data-Driven Decisions`  
 
+
 ---
+
+
+## <p align="center"><strong><em style="font-size:20px;">Turning data into decisions—and predictions into profit.</em></strong></p>
+
 
 <div align="center">
 
@@ -103,11 +108,6 @@ This project transforms raw data into **insightful predictions**, allowing busin
 <img src="https://img.shields.io/badge/LEVEL-Junior_Developer-informational?style=for-the-badge" />
 
 </div>
-
----
-
-
-## <p align="center"><strong><em style="font-size:20px;">Turning data into decisions—and predictions into profit.</em></strong></p>
 
 
 
