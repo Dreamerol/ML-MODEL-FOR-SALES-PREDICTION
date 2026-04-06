@@ -65,9 +65,6 @@ This project transforms raw data into **insightful predictions**, allowing busin
 
 ## 🔄 Machine Learning Workflow
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/your-username/ml-flow-placeholder.png" alt="ML Workflow Diagram" width="700"/>
-</p>
 
 **Pipeline Steps:**
 1. Data Collection & Cleaning  
