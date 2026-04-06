@@ -7,7 +7,7 @@
 
 
 
-<h1 align="center">🚀 PROFIT PREDICTOR – ML-Driven Sales Forecasting</h1>
+<h1 align="center">🌍 PROFIT PREDICTOR – ML-Driven Sales Forecasting</h1>
 
 
 
