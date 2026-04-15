@@ -176,6 +176,14 @@ This project transforms raw data into **insightful predictions**, allowing busin
 ## <p align="center"><strong><em style="font-size:20px;">Turning data into decisions—and predictions into profit.</em></strong></p>
 
 
+
+<p align="center">
+  🔗 Explore more on my GitHub profile: 
+  <a href="https://github.com/Dreamerol">github.com/Dreamerol</a>
+</p>
+
+
+
 <div align="center">
 
 <img src="https://img.shields.io/badge/PROJECT-Portfolio_Ready-0A66C2?style=for-the-badge" />
