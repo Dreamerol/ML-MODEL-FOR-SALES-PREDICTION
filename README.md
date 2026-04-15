@@ -84,20 +84,6 @@ This project transforms raw data into **insightful predictions**, allowing busin
 
 </p>
 
-## 💻 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib" />
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-
-</p>
-
 
 ---
 
