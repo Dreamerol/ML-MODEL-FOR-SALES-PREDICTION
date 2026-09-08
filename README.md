@@ -8,8 +8,6 @@
 
 
 
-<br>
-
 
 
 [![Data Analysis and ML](https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Sajt.jpg)](https://dreamerol.github.io/APPLIED-AI-ENGINEER/)
